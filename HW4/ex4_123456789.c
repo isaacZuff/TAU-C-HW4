@@ -62,7 +62,7 @@ const char * print_total_number = "Total number of products: ";
 
 //operation 5 constant strings
 const char * update_barcode = "Please enter product barcode you want to update:";
-const char * update_barcode_notFound = "Couldn’t find the product barcode, try again...";
+const char * update_barcode_notFound = "Couldnâ€™t find the product barcode, try again...";
 const char * update_interface_string = ("What do you want to update?\n"\
 	"	1. Product name\n"\
 	"	2. Product category\n"\
